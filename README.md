@@ -16,7 +16,7 @@ To achieve this goal, systematic approaches towards the data mining process, foc
 
 # Data
 
-3 datasets are used in this project (all datasets are uploaded to the repo);
+3 datasets are used in this project (all datasets can be accessed here [Dataset](https://drive.google.com/drive/folders/1os-L5Ueqx3UdGDAVy8C9ES6DO6LFZbZA?usp=sharing));
 1. `df_training_level_1`
 2. `df_training_level_2`
 3. `df_holdout`
